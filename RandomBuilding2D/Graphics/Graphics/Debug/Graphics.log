@@ -1,0 +1,9 @@
+﻿  2dBuilding.cpp
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(172): warning C4101: 'locationY': unreferenced local variable
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(172): warning C4101: 'locationX': unreferenced local variable
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(420): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(428): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\sergeis\desktop\לימודים\github\randombuilding2d\graphics\graphics\2dbuilding.cpp(383): warning C4101: 'y': unreferenced local variable
+  Graphics.vcxproj -> C:\Users\sergeiS\Desktop\לימודים\GITHUB\RandomBuilding2D\Graphics\Debug\Graphics.exe
+  Graphics.vcxproj -> C:\Users\sergeiS\Desktop\לימודים\GITHUB\RandomBuilding2D\Graphics\Debug\Graphics.pdb (Full PDB)
